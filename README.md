@@ -1,2 +1,3 @@
-# j-weather
-learning react native by building an weather mobile app
+# j weather
+
+learning react native by building weather app
